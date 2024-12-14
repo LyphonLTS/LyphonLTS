@@ -11,7 +11,7 @@
       </a>
     </span>
 
-<div style="display: flex; justify-content: center; place-items: center;">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LyphonLTS&theme=midnight-purple&hide_border=true&short_numbers=true)](https://git.io/streak-stats)</div>
+<span style="display: flex; justify-content: center; place-items: center;">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LyphonLTS&theme=midnight-purple&hide_border=true&short_numbers=true)](https://git.io/streak-stats)</span>
 <!---
 LyphonLTS/LyphonLTS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
