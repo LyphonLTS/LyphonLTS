@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning React
 - <span align="left">📫 How to reach me:</span>
   - Instagram: @lsthegreat
+  - <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 
 <!---
 LyphonLTS/LyphonLTS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
