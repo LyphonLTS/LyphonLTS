@@ -9,10 +9,12 @@
 - 🌱 I’m currently learning React
 - We like it 🍕 here, and Dante approves it
     
-
 <div align="center">
   <h1 style="color: #9745F5;">My statistics</h1>
+  
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LyphonLTS&theme=midnight-purple&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+    
+  <a href="https://github.com/LyphonLTS/github-readme-stats"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LyphonLTS" alt="Top Langs" /></a>
 </div>
 
 <div align="center">
