@@ -6,8 +6,12 @@
 - 🌱 I’m currently learning React
 - <span align="left">📫 How to reach me:</span>
   - Instagram: @lsthegreat
-  - <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-  ![Static Badge](https://img.shields.io/badge/Instragram-white?style=social&link=https%3A%2F%2Fwww.instagram.com%2Flsthegreat%2Fprofilecard%2F%3Figsh%3DMW5iaXhhc3l5ajZxNg%3D%3D)
+  - <span style="background-color: #f4989c; padding: 0.5rem">
+      <a href="https://www.instagram.com/lsthegreat/profilecard/?igsh=MW5iaXhhc3l5ajZxNg==" target="blank">
+        <img align="center" src="https://www.svgrepo.com/svg/452229/instagram-1" alt="" height="24" width="24" />
+      </a>
+    </span>
+  -
 
 
 <!---
