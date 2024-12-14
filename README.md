@@ -6,17 +6,15 @@
   <div align="left">
     <p>- I’m currently interested in build my ideas :bulb:</p>
     <p>- We like 🍕 here, and Dante approves it</p>
-    <p>- Contact me :telephone_receiver: at [My socials](url)</p>
+    <p>- How many Quaks does it take to build a Quackland? :baby_chick::earth_americas:</p>
   </div>
-
-  
 </div>
 
 <div align="center">
   <h1 style="color: #9745F5;">About me :wink:</h1>
 
   <div align="left">
-    <p>👾 I’m @LyphonLTS or just Lucas. 👀 I’m interested in frontend and everything around it</p>
+    <p>👾 I'm @LyphonLTS or just Lucas, a guy who shines his eyes 👀 on the frontend and everything around him.</p>
   </div>
 </div>
     
