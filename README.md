@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @LyphonLTS or Lucas
 - 👀 I’m interested in frontend and everything around it
 - 🌱 I’m currently learning React
-<h2 align="left">📫 How to reach me:</h3>
+- <span align="left">📫 How to reach me:</span>
   - Instagram: @lsthegreat
 
 <!---
