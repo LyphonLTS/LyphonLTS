@@ -1,5 +1,5 @@
-<img src="https://github.com/user-attachments/assets/1c6700be-a91b-4c5c-aada-5bd192d1166b" style="border-radius: 1rem;" />
-![Github_banner]()
+<img src="https://github.com/user-attachments/assets/1c6700be-a91b-4c5c-aada-5bd192d1166b" style="border-radius: 16px;" />
+![Github_banner](https://github.com/user-attachments/assets/1c6700be-a91b-4c5c-aada-5bd192d1166b)
 
 - 👋 Hi, I’m @LyphonLTS or Lucas
 - 👀 I’m interested in frontend and everything around it
