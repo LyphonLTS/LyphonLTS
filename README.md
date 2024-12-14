@@ -1,3 +1,5 @@
+[![MasterHead](/"C:\Users\Jorja\Pictures\Wallpaper\Github_banner.png")]([your GitHub link](https://github.com/LyphonLTS))
+
 - 👋 Hi, I’m @LyphonLTS or Lucas
 - 👀 I’m interested in frontend and everything around it
 - 🌱 I’m currently learning React
