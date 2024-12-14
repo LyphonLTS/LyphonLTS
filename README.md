@@ -4,8 +4,8 @@
 - 👋 Hi, I’m @LyphonLTS or Lucas
 - 👀 I’m interested in frontend and everything around it
 - 🌱 I’m currently learning React
-- 📫 How to reach me:
-- Instagram: @lsthegreat
+- <h3 align="left">📫 How to reach me:</h3>
+  - Instagram: @lsthegreat
 
 <!---
 LyphonLTS/LyphonLTS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
