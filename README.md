@@ -19,13 +19,18 @@
 </div>
     
 <div align="center">
-  <h1 style="color: #9745F5;">My statistics :chart_with_upwards_trend:</h1>
+  <h1>My statistics :chart_with_upwards_trend:</h1>
   
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LyphonLTS&theme=midnight-purple&hide_border=true&short_numbers=true" alt="LyphonLTS's Github streak" /></a>
-    
-  <a href="https://github.com/LyphonLTS/github-readme-stats"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LyphonLTS&theme=midnight-purple&hide_border=true" alt="LyphonLTS's Github top langs" /></a>
+  <div align="left">
+    <span style="display: inline-block; margin-right: 1rem;">
+      <img src="https://github-readme-stats.vercel.app/api?username=LyphonLTS&show_icons=true&theme=midnight-purple&hide_border=true" alt="LyphonLTS's GitHub stats">
+    </span>
+    <span style="display: inline-block;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=LyphonLTS&theme=midnight-purple&hide_border=true&short_numbers=true" alt="LyphonLTS's Github streak">
+    </span>
+  </div>
 
-  ![LyphonLTS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyphonLTS&show_icons=true&theme=midnight-purple&hide_border=true)
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LyphonLTS&theme=midnight-purple&hide_border=true" alt="LyphonLTS's Github top langs" />
 </div>
 
 <div align="center">
@@ -44,6 +49,8 @@
   </a>
 
 </div>
+
+
 
 
 <!---
