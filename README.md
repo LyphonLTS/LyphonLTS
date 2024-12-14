@@ -1,24 +1,32 @@
 ![Github_banner](https://github.com/user-attachments/assets/606c31d2-b530-4a61-8a6e-149b3d75f8dd)
 
 <div align="center">
-  <h1 style="color: #9745F5;">Welcome!</h1>
+  <h1 style="color: #9745F5;">Welcome :tada:</h1>
 </div>
 
-- 👾 I’m @LyphonLTS or just Lucas
-- 👀 I’m interested in frontend and everything around it
-- 🌱 I’m currently learning React
-- We like it 🍕 here, and Dante approves it
+<div align="center">
+  <h1 style="color: #9745F5;">About me :wink:</h1>
+
+  <div align="left">
+    <p>- 👾 I’m @LyphonLTS or just Lucas</p>
+    <p>-👀 I’m interested in frontend and everything around it</p>
+    <p>- I’m currently interested in build my on ideas :bulb:</p>
+    <p>- We like it 🍕 here, and Dante approves it</p>
+  </div>
+</div>
     
 <div align="center">
-  <h1 style="color: #9745F5;">My statistics</h1>
+  <h1 style="color: #9745F5;">My statistics :chart_with_upwards_trend:</h1>
   
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LyphonLTS&theme=midnight-purple&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LyphonLTS&theme=midnight-purple&hide_border=true&short_numbers=true" alt="LyphonLTS's Github streak" /></a>
     
-  <a href="https://github.com/LyphonLTS/github-readme-stats"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LyphonLTS" alt="Top Langs" /></a>
+  <a href="https://github.com/LyphonLTS/github-readme-stats"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LyphonLTS&theme=midnight-purple&hide_border=true" alt="LyphonLTS's Github top langs" /></a>
+
+  ![LyphonLTS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyphonLTS&show_icons=true&theme=midnight-purple&hide_border=true)
 </div>
 
 <div align="center">
-  <h1 style="background-color: #9745F5;">My socials</h1>
+  <h1 style="background-color: #9745F5;">My socials :mailbox:</h1>
 
   <a href="https://www.instagram.com/lsthegreat/profilecard/?igsh=MW5iaXhhc3l5ajZxNg==" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
