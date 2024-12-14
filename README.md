@@ -2,16 +2,21 @@
 
 <div align="center">
   <h1 style="color: #9745F5;">Welcome :tada:</h1>
+
+  <div align="left">
+    <p>- I’m currently interested in build my ideas :bulb:</p>
+    <p>- We like 🍕 here, and Dante approves it</p>
+    <p>- Contact me :telephone_receiver: at [My socials](url)</p>
+  </div>
+
+  
 </div>
 
 <div align="center">
   <h1 style="color: #9745F5;">About me :wink:</h1>
 
   <div align="left">
-    <p>- 👾 I’m @LyphonLTS or just Lucas</p>
-    <p>-👀 I’m interested in frontend and everything around it</p>
-    <p>- I’m currently interested in build my on ideas :bulb:</p>
-    <p>- We like it 🍕 here, and Dante approves it</p>
+    <p>👾 I’m @LyphonLTS or just Lucas. 👀 I’m interested in frontend and everything around it</p>
   </div>
 </div>
     
