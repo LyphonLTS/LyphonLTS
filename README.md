@@ -5,13 +5,12 @@
 - 👀 I’m interested in frontend and everything around it
 - 🌱 I’m currently learning React
 - <span align="left">📫 How to reach me:</span>
-  - Instagram: @lsthegreat
   - <span style="background-color: #fff; padding: 0.5rem">
+      Instagram
       <a href="https://www.instagram.com/lsthegreat/profilecard/?igsh=MW5iaXhhc3l5ajZxNg==" target="blank">
         <img align="center" src="https://www.svgrepo.com/svg/452229/instagram-1" alt="" height="24" width="24" />
       </a>
     </span>
-  -
 
 
 <!---
