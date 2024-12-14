@@ -7,7 +7,7 @@
 - <span align="left">📫 How to reach me:</span>
   - Instagram: @lsthegreat
   - <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-  ![Static Badge](https://img.shields.io/badge/Instagram?logo=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F452229%2Finstagram-1&color=%23F4989C&link=https%3A%2F%2Fwww.instagram.com%2Flsthegreat%2Fprofilecard%2F%3Figsh%3DMW5iaXhhc3l5ajZxNg%3D%3D)
+  ![Instagram](https://img.shields.io/badge/Instagram?logo=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F452229%2Finstagram-1&color=%23F4989C&link=https%3A%2F%2Fwww.instagram.com%2Flsthegreat%2Fprofilecard%2F%3Figsh%3DMW5iaXhhc3l5ajZxNg%3D%3D)
 
 
 <!---
